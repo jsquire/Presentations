@@ -1,6 +1,4 @@
-# Distributing Cheat Detection: #
-
-## Applying Blockchain to Lessons Learned from Halo ##
+# Distributing Cheat Detection: <br />Applying Blockchain to Lessons Learned from Halo #
 
 ### Description ###
 
