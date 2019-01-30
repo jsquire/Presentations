@@ -4,7 +4,7 @@
 
 Included in this repository are slide decks, documents and code assets from presentations that Jesse has given at various venues, such as conferences, meet-ups, user groups, and brown bags sessions.
 
-Included are artifacts that were either created for public release or as personal items (on personal time, using my own equipment and not intended for any employers or clients).  o my knowledge nothing contained herein is considered proprietary or confidential to any of my employers, past or present.  In the event that a former employer or client feels otherwise, please contact me and I'd be happy to discuss the disputed material.
+Included are artifacts that were either created for public release or as personal items (on personal time, using my own equipment and not intended for any employers or clients).  To my knowledge nothing contained herein is considered proprietary or confidential to any of my employers, past or present.  In the event that a former employer or client feels otherwise, please contact me and I'd be happy to discuss the disputed material.
 
 
 ### Structure ###
