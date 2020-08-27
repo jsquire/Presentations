@@ -1025,6 +1025,7 @@ DerivedDataCache/*
 ## VS Code ##
 #############
 
+/.ionide
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
